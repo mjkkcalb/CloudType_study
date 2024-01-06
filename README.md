@@ -37,5 +37,3 @@
 
 
 
-![Untitled (3)](https://github.com/mjkkcalb/CloudType_study/assets/142865257/1bc9b37b-f3c8-479f-b2b5-ab2baeaf3abd)
-
