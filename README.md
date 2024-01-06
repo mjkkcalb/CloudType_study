@@ -17,23 +17,23 @@
     
 - 언어/ 프레임웍 선택 - node.js
 - 버전 설정 → 제일 높은 버전 (현재 v20
-
+  
+![Untitled (1)](https://github.com/mjkkcalb/CloudType_study/assets/142865257/54019887-2a31-40d4-a90c-155e746816f2)
 
 - **Environment variables** 옆 (+)버튼 3개 추가
 - 추가된 칸에 back 폴더 .evn 파일 내용 추가
 
-
+![Untitled (2)](https://github.com/mjkkcalb/CloudType_study/assets/142865257/4c029e01-cc12-452f-be2c-1a1e8e8eed43)
 
 - port 번호 8080 (설정해둔 서버 번호로 변경 기본 3000 → 수정 8080)
 - install command → npm ci 입력
 - Start command → node index.js (내가 만든 폴더명)
 - 비어있는 곳은 작성 필요 x (이미지 참고)
 
-
+![Untitled (3)](https://github.com/mjkkcalb/CloudType_study/assets/142865257/c683666a-b31d-42eb-bf22-7485f777b3c6)
 
 - 배포하기 선택
 - 도메인 들어가면 1~3분 뒤에 배포 나옴!!
 - 너무 빨리 들어가면 404에러 나옵니다
-
 
 
