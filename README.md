@@ -29,7 +29,7 @@
 - Start command → node index.js (내가 만든 폴더명)
 - 비어있는 곳은 작성 필요 x (이미지 참고)
 
-![Untitled (3)](https://github.com/mjkkcalb/CloudType_study/assets/142865257/1bc9b37b-f3c8-479f-b2b5-ab2baeaf3abd)
+
 
 - 배포하기 선택
 - 도메인 들어가면 1~3분 뒤에 배포 나옴!!
