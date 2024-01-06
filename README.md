@@ -18,11 +18,11 @@
 - 언어/ 프레임웍 선택 - node.js
 - 버전 설정 → 제일 높은 버전 (현재 v20
 
-![Untitled (1)](https://github.com/mjkkcalb/CloudType_study/assets/142865257/bbb9bc2f-1d68-4e7c-8001-fc40a3a934b3)
+
 - **Environment variables** 옆 (+)버튼 3개 추가
 - 추가된 칸에 back 폴더 .evn 파일 내용 추가
 
-![Untitled (2)](https://github.com/mjkkcalb/CloudType_study/assets/142865257/5d45147b-a974-4627-9420-cad3de6651cd)
+
 
 - port 번호 8080 (설정해둔 서버 번호로 변경 기본 3000 → 수정 8080)
 - install command → npm ci 입력
